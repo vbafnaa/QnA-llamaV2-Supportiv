@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involves fine-tuning the LLaMA model (`abhishek/llama-2-7b-hf-small-shards`) using QLoRA for high-quality text generation. The model is trained on the dataset to generate answers for medical-related questions. 
+This project involves fine-tuning the LLaMA model (`abhishek/llama-2-7b-hf-small-shards`) using QLoRA for text generation. The model is trained on the dataset to generate answers for medical-related questions. 
 
 ## Assumptions
 
