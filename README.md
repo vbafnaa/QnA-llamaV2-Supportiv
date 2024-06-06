@@ -40,11 +40,11 @@ This project involves fine-tuning the LLaMA model (`abhishek/llama-2-7b-hf-small
 
 ## Example Interactions:
 
-- **Prompt 1:**  How to treat Glaucoma?
+1. **Prompt:**  How to treat Glaucoma?
 - **Answer:**  The goal of treatment is to reduce pressure in the eye to a level that will prevent damage to the optic nerve and vision loss. Treatment may include medicines, laser surgery, conventional surgery, or a combination of these treatments. The type of treatment that is best for you will depend on the type of glaucoma you have, how severe it is, and whether you have other eye diseases. Your ophthalmologist will work with you to determine the best treatment for your condition.    Medicines - Medicines used to treat glaucoma work by either reducing the amount of fluid in the eye or by improving the flow through the drainage angle. These medicines are taken by mouth or applied directly to the eye.    Laser surgery - Laser surgery is used to
 
-- **Prompt 2:** What is Osteoporosis?
+2. **Prompt:** What is Osteoporosis?
 - **Answer:**  Osteoporosis is a disease that causes bones to become weak and brittle. It is a silent disease because there are no symptoms. Osteoporosis is called the "silent disease" because it is not detected until a bone breaks. Osteoporosis is a major health problem in the United States. It affects 10 million Americans, including 1 million men. It is most common in women over age 50. Osteoporosis is a major cause of broken bones in older people. It is also a major cause of disability in older people. Osteoporosis is a major cause of broken bones in older people. It is also a major cause of disability in older people. Osteoporosis is a major cause of broken bones in
 
-- **Prompt 3:** What is Osteoporosis?
+3. **Prompt:** What is Osteoporosis?
 - **Answer:** Signs and symptoms of lung cancer include       -  A cough that doesn't go away or gets worse over time    -  Chest pain    -  Shortness of breath    -  Wheezing    -  Hoarseness    -  Trouble swallowing    -  Weight loss for no known reason    -  Loss of appetite    -  Fatigue    -  Coughing up blood    -  Chest infections that keep coming back       Lung cancer can cause other signs and symptoms. Other conditions can cause the same signs and symptoms. It's important to see your doctor if you have any of these problems. Only a doctor can make a diagnosis.    NIH: National Cancer Institute    NIH: National Institute of Environmental
