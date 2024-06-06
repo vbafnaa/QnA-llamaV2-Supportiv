@@ -1,4 +1,4 @@
-# QnA-llamaV2-Supportiv
+# QnA-LLaMaV2-Supportiv-Task
 
 ## Description
 
